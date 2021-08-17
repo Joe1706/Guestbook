@@ -10,6 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8358a305-bfd3-41e5-8f60-b3beca6e14c4" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/var/cache/dev/App_KernelDevDebugContainer.php.lock" afterDir="false" />
@@ -208,6 +209,9 @@
       <change afterPath="$PROJECT_DIR$/vendor/symfony/var-exporter" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendor/symfony/yaml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="8358a305-bfd3-41e5-8f60-b3beca6e14c4" name="Default Changelist" comment="" />
+>>>>>>> master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,6 +226,7 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+<<<<<<< HEAD
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -245,6 +250,8 @@
         </option>
       </RecentBranches>
     </option>
+=======
+>>>>>>> master
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -314,7 +321,11 @@
       <workItem from="1629107006395" duration="318000" />
       <workItem from="1629107735149" duration="419000" />
       <workItem from="1629120413580" duration="683000" />
+<<<<<<< HEAD
       <workItem from="1629162104828" duration="1401000" />
+=======
+      <workItem from="1629162104828" duration="929000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
