@@ -19,12 +19,11 @@ class ConferenceController extends AbstractController
         if ($name = $request->query->get('hello')) {
             $greet = sprintf('<h1>Hello %s!</h1>', htmlspecialchars($name));
         }
-        return new Response(
-            "<html>
-    <body>
-    $greet
-        <img src=\"/images/under-construction.gif\" />
-    </body>
-</html>");
+        return new Response("<html>
+            <body>
+            $greet
+                <img src=\"/images/under-construction.gif\" />
+            </body>
+        </html>");
     }
 }
