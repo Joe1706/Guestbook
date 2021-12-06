@@ -4,10 +4,6 @@
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 D
 config/services.yaml,8/7/87042d1f46b57381244d70e7a42feeb7710727dc
-F
-src/Entity/Comment.php,6/1/617927279295705bcaee58560c7569e75fbe899b
-I
-src/Entity/Conference.php,8/e/8e0738f2821b36068510f80655032ad0cfd7ea93
 =
 composer.lock,c/3/c3262e2a0879195bd6a727e90f768bc85ad79ffd
 =
